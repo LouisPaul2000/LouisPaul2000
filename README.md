@@ -6,7 +6,7 @@ Welcome! I'm Ishan, dedicated to exploring the intersection of Human-Centric Com
 - 🎓 Engaged in comprehending the complexities of AI and its counterpart quantum applications.
 - 🧠 Exploring the human elements in technology through HCI research.
 
-## Research and Projects
+## [Research and Projects](https://www.ishan-shivansh-bangroo.com/research-overview)
 - Engaged in projects that leverage quantum computing for societal benefits.
 - Focused on developing systems and algorithms that enhance human-computer interactions.
 
