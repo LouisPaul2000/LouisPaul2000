@@ -1,6 +1,6 @@
 ### Hello visitors 👋
 
-Welcome! I'm Ishan, dedicated to exploring the intersection of Human-Centric Computing, Quantum Computing, and AI. With a strong foundation from the University of Florida and Jaypee University, my journey is marked by a quest to blend technology with human experiences.
+Welcome! I'm Ishan, dedicated to exploring the intersection of Human-Centric Computing, Quantum Computing, and AI. With a foundation in advancing scientific technology, my journey is marked by a quest to blend technology with human experiences.
 
 ## Academic and Research Interests
 - 🎓 Engaged in comprehending the complexities of AI and its counterpart quantum applications.
